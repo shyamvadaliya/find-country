@@ -1,0 +1,25 @@
+{
+  "name": "find-country",
+  "version": "1.0.1",
+  "description": "Finds the country base on name, code and currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyamvadaliya/find-country.git"
+  },
+  "keywords": [
+    "country",
+    "location",
+    "search",
+    "filter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyamvadaliya/find-country/issues"
+  },
+  "homepage": "https://github.com/shyamvadaliya/find-country#readme"
+}
