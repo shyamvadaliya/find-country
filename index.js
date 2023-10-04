@@ -5,7 +5,7 @@ const stateJSON = require('./assets/state.json');
 function getAll() {
     return countryJSON;
 }
-
+console.log("Done");
 function getCountryName(name) {
     if (!name) {
         return [];
